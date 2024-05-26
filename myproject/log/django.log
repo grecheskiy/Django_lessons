@@ -1,0 +1,14 @@
+INFO 2024-05-26 12:13:32,217 autoreload 26992 26548 Watching for file changes with StatReloader
+INFO 2024-05-26 12:13:38,495 views 26992 3104 Index page accessed
+INFO 2024-05-26 12:13:38,496 basehttp 26992 3104 "GET / HTTP/1.1" 200 5
+WARNING 2024-05-26 12:13:51,448 log 26992 3104 Not Found: /index
+WARNING 2024-05-26 12:13:51,448 basehttp 26992 3104 "GET /index HTTP/1.1" 404 2423
+WARNING 2024-05-26 12:15:15,850 log 26992 3104 Not Found: /prefix
+WARNING 2024-05-26 12:15:15,850 basehttp 26992 3104 "GET /prefix HTTP/1.1" 404 2426
+ERROR 2024-05-26 12:17:06,431 views 26992 3104 Error in about page: division by zero
+Traceback (most recent call last):
+  File "C:\Users\maxim.grekov.V-A-C\Documents\GeekBrains\FrameworkDjango\myproject\myapp\views.py", line 16, in about
+    result = 1 / 0
+             ~~^~~
+ZeroDivisionError: division by zero
+INFO 2024-05-26 12:17:06,433 basehttp 26992 3104 "GET /about/ HTTP/1.1" 200 27
