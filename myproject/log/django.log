@@ -12,3 +12,24 @@ Traceback (most recent call last):
              ~~^~~
 ZeroDivisionError: division by zero
 INFO 2024-05-26 12:17:06,433 basehttp 26992 3104 "GET /about/ HTTP/1.1" 200 27
+INFO 2024-05-26 14:46:27,022 autoreload 19272 21404 Watching for file changes with StatReloader
+INFO 2024-05-26 14:48:09,094 autoreload 18032 5396 Watching for file changes with StatReloader
+ERROR 2024-05-26 14:48:14,328 views 18032 1844 Error in about page: division by zero
+Traceback (most recent call last):
+  File "C:\Users\maxim.grekov.V-A-C\Documents\GeekBrains\FrameworkDjango\myproject\myapp\views.py", line 16, in about
+    result = 1 / 0
+             ~~^~~
+ZeroDivisionError: division by zero
+INFO 2024-05-26 14:48:14,342 basehttp 18032 1844 "GET /about/ HTTP/1.1" 200 27
+INFO 2024-05-26 14:48:48,248 basehttp 18032 1844 "GET /admin/login/?next=/admin/index HTTP/1.1" 200 4168
+INFO 2024-05-26 14:48:48,277 basehttp 18032 1844 "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 2024-05-26 14:48:48,278 basehttp 18032 23124 "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+INFO 2024-05-26 14:48:48,279 basehttp 18032 1844 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+INFO 2024-05-26 14:48:48,282 basehttp 18032 23124 "GET /static/admin/css/login.css HTTP/1.1" 304 0
+INFO 2024-05-26 14:48:48,282 basehttp 18032 1844 "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 2024-05-26 14:48:48,614 basehttp 18032 1844 "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+INFO 2024-05-26 14:48:48,614 basehttp 18032 23124 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+INFO 2024-05-26 14:48:54,393 views 18032 23124 Index page accessed
+INFO 2024-05-26 14:48:54,393 basehttp 18032 23124 "GET / HTTP/1.1" 200 5
+INFO 2024-05-26 14:49:42,813 autoreload 19688 23336 Watching for file changes with StatReloader
+INFO 2024-05-26 14:53:11,429 autoreload 24944 31672 Watching for file changes with StatReloader
