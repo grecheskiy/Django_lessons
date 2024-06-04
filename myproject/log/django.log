@@ -33,3 +33,610 @@ INFO 2024-05-26 14:48:54,393 views 18032 23124 Index page accessed
 INFO 2024-05-26 14:48:54,393 basehttp 18032 23124 "GET / HTTP/1.1" 200 5
 INFO 2024-05-26 14:49:42,813 autoreload 19688 23336 Watching for file changes with StatReloader
 INFO 2024-05-26 14:53:11,429 autoreload 24944 31672 Watching for file changes with StatReloader
+INFO 2024-05-27 13:47:33,760 autoreload 8676 20092 Watching for file changes with StatReloader
+INFO 2024-05-27 13:50:19,226 autoreload 8676 20092 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-05-27 13:50:19,635 autoreload 18896 18732 Watching for file changes with StatReloader
+INFO 2024-05-27 13:50:37,398 autoreload 18896 18732 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-05-27 13:50:37,777 autoreload 22188 25052 Watching for file changes with StatReloader
+INFO 2024-05-27 13:52:19,583 autoreload 22188 25052 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-05-27 13:52:20,013 autoreload 19572 1540 Watching for file changes with StatReloader
+INFO 2024-05-27 13:52:23,427 autoreload 19572 1540 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-05-27 13:52:23,861 autoreload 17156 11532 Watching for file changes with StatReloader
+INFO 2024-05-27 13:52:40,614 autoreload 17156 11532 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-05-27 13:52:41,020 autoreload 25568 25192 Watching for file changes with StatReloader
+INFO 2024-05-27 13:52:46,467 autoreload 25568 25192 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-05-27 13:52:46,886 autoreload 26100 7408 Watching for file changes with StatReloader
+INFO 2024-05-27 13:52:50,291 autoreload 26100 7408 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-05-27 13:52:50,666 autoreload 23984 14900 Watching for file changes with StatReloader
+INFO 2024-05-27 13:54:54,501 autoreload 8336 10108 Watching for file changes with StatReloader
+WARNING 2024-05-27 13:55:01,668 log 8336 18944 Not Found: /
+WARNING 2024-05-27 13:55:01,668 basehttp 8336 18944 "GET / HTTP/1.1" 404 2274
+WARNING 2024-05-27 13:55:02,313 log 8336 18944 Not Found: /favicon.ico
+WARNING 2024-05-27 13:55:02,314 basehttp 8336 18944 "GET /favicon.ico HTTP/1.1" 404 2325
+WARNING 2024-05-27 13:56:29,770 log 8336 18944 Not Found: /les3
+WARNING 2024-05-27 13:56:29,771 basehttp 8336 18944 "GET /les3 HTTP/1.1" 404 2304
+INFO 2024-05-27 13:56:40,766 basehttp 8336 18944 "GET /les3/hello HTTP/1.1" 301 0
+INFO 2024-05-27 13:56:41,077 basehttp 8336 15236 "GET /les3/hello/ HTTP/1.1" 200 26
+WARNING 2024-05-27 13:56:48,230 log 8336 15236 Not Found: /les3/hell2/
+WARNING 2024-05-27 13:56:48,231 basehttp 8336 15236 "GET /les3/hell2/ HTTP/1.1" 404 2566
+INFO 2024-05-27 13:56:57,266 basehttp 8336 15236 "GET /les3/hello2/ HTTP/1.1" 200 23
+INFO 2024-05-27 14:14:08,664 autoreload 8336 10108 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-05-27 14:14:10,084 autoreload 4320 23716 Watching for file changes with StatReloader
+INFO 2024-05-27 14:14:12,489 autoreload 4320 23716 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-05-27 14:14:12,905 autoreload 11808 23768 Watching for file changes with StatReloader
+INFO 2024-05-27 14:17:48,535 autoreload 11808 23768 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-05-27 14:17:48,996 autoreload 13548 3124 Watching for file changes with StatReloader
+INFO 2024-05-27 14:17:52,393 autoreload 13548 3124 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-05-27 14:17:52,836 autoreload 2264 9132 Watching for file changes with StatReloader
+INFO 2024-05-27 14:18:13,668 autoreload 2264 9132 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-05-27 14:18:14,112 autoreload 12472 8336 Watching for file changes with StatReloader
+INFO 2024-05-27 14:18:18,541 autoreload 12472 8336 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-05-27 14:18:18,926 autoreload 14960 6816 Watching for file changes with StatReloader
+INFO 2024-05-27 14:19:27,024 autoreload 14960 6816 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-05-27 14:19:27,423 autoreload 13072 24816 Watching for file changes with StatReloader
+INFO 2024-05-27 14:19:28,760 autoreload 13072 24816 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-05-27 14:19:29,144 autoreload 8160 22452 Watching for file changes with StatReloader
+INFO 2024-05-27 14:19:33,555 autoreload 8160 22452 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-05-27 14:19:33,962 autoreload 25536 20744 Watching for file changes with StatReloader
+INFO 2024-05-27 14:19:43,471 autoreload 25536 20744 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-05-27 14:19:43,860 autoreload 11928 18972 Watching for file changes with StatReloader
+INFO 2024-05-27 14:19:58,561 autoreload 11928 18972 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-05-27 14:19:58,963 autoreload 9132 14416 Watching for file changes with StatReloader
+INFO 2024-05-27 14:20:11,598 autoreload 9132 14416 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-05-27 14:20:12,003 autoreload 18068 10200 Watching for file changes with StatReloader
+INFO 2024-05-27 14:20:15,365 autoreload 18068 10200 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-05-27 14:20:15,752 autoreload 24952 3580 Watching for file changes with StatReloader
+INFO 2024-05-27 14:20:22,190 autoreload 24952 3580 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-05-27 14:20:22,596 autoreload 332 25236 Watching for file changes with StatReloader
+INFO 2024-05-27 14:20:40,291 autoreload 332 25236 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-05-27 14:20:40,681 autoreload 23832 24692 Watching for file changes with StatReloader
+INFO 2024-05-27 14:21:00,490 autoreload 23832 24692 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-05-27 14:21:00,880 autoreload 8980 8676 Watching for file changes with StatReloader
+INFO 2024-05-27 14:21:03,254 autoreload 8980 8676 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-05-27 14:21:03,680 autoreload 22512 25120 Watching for file changes with StatReloader
+INFO 2024-05-27 14:21:08,063 autoreload 22512 25120 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-05-27 14:21:08,466 autoreload 23940 24816 Watching for file changes with StatReloader
+INFO 2024-05-27 14:21:15,942 autoreload 23940 24816 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-05-27 14:21:16,354 autoreload 12204 6348 Watching for file changes with StatReloader
+INFO 2024-05-27 14:21:28,938 autoreload 12204 6348 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-05-27 14:21:29,357 autoreload 26456 22876 Watching for file changes with StatReloader
+INFO 2024-05-27 14:21:34,787 autoreload 26456 22876 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-05-27 14:21:35,179 autoreload 4424 20416 Watching for file changes with StatReloader
+INFO 2024-05-27 14:21:38,570 autoreload 4424 20416 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-05-27 14:21:38,970 autoreload 15964 14180 Watching for file changes with StatReloader
+INFO 2024-05-27 14:21:47,517 autoreload 15964 14180 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-05-27 14:21:47,910 autoreload 11808 14020 Watching for file changes with StatReloader
+INFO 2024-05-27 14:22:00,578 autoreload 11808 14020 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-05-27 14:22:00,978 autoreload 26180 10500 Watching for file changes with StatReloader
+INFO 2024-05-27 14:22:35,260 autoreload 26180 10500 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-05-27 14:22:35,688 autoreload 14516 3580 Watching for file changes with StatReloader
+INFO 2024-05-27 14:23:43,549 basehttp 14516 17488 "GET /les3/posts/2022/ HTTP/1.1" 200 19
+INFO 2024-05-27 14:23:50,302 basehttp 14516 17488 "GET /les3/posts/2022/6/ HTTP/1.1" 200 21
+INFO 2024-05-27 14:23:59,897 basehttp 14516 17488 "GET /les3/posts/2022/6/python/ HTTP/1.1" 200 360
+INFO 2024-05-27 14:33:43,386 basehttp 14516 22728 "GET /les3/posts/2022/ HTTP/1.1" 200 19
+WARNING 2024-05-27 14:33:50,861 log 14516 22728 Not Found: /les3/
+WARNING 2024-05-27 14:33:50,861 basehttp 14516 22728 "GET /les3/ HTTP/1.1" 404 3184
+WARNING 2024-05-27 14:33:56,608 log 14516 22728 Not Found: /
+WARNING 2024-05-27 14:33:56,609 basehttp 14516 22728 "GET / HTTP/1.1" 404 2274
+INFO 2024-05-27 14:34:03,383 basehttp 14516 22728 "GET /les3/posts/2022/ HTTP/1.1" 200 19
+INFO 2024-05-27 14:35:02,957 autoreload 14516 3580 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-05-27 14:35:03,391 autoreload 19796 6736 Watching for file changes with StatReloader
+INFO 2024-05-27 14:35:04,790 autoreload 19796 6736 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-05-27 14:35:05,209 autoreload 10588 6804 Watching for file changes with StatReloader
+INFO 2024-05-27 14:35:08,613 autoreload 10588 6804 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-05-27 14:35:09,000 autoreload 3532 5752 Watching for file changes with StatReloader
+INFO 2024-05-27 14:35:12,380 autoreload 3532 5752 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-05-27 14:35:12,784 autoreload 12604 3092 Watching for file changes with StatReloader
+INFO 2024-05-27 14:35:24,357 autoreload 12604 3092 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-05-27 14:35:24,753 autoreload 8432 7320 Watching for file changes with StatReloader
+WARNING 2024-05-27 14:35:43,503 log 8432 26488 Not Found: /les3/
+WARNING 2024-05-27 14:35:43,504 basehttp 8432 26488 "GET /les3/ HTTP/1.1" 404 3184
+INFO 2024-05-27 14:37:56,432 autoreload 8432 7320 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-05-27 14:37:56,882 autoreload 13784 9480 Watching for file changes with StatReloader
+INFO 2024-05-27 14:37:58,279 autoreload 13784 9480 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-05-27 14:37:58,726 autoreload 17904 332 Watching for file changes with StatReloader
+INFO 2024-05-27 14:38:00,062 autoreload 17904 332 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-05-27 14:38:00,513 autoreload 24236 23736 Watching for file changes with StatReloader
+INFO 2024-05-27 14:38:33,587 autoreload 24236 23736 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-05-27 14:38:33,986 autoreload 8816 17444 Watching for file changes with StatReloader
+INFO 2024-05-27 14:38:38,406 autoreload 8816 17444 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-05-27 14:38:38,793 autoreload 6348 19136 Watching for file changes with StatReloader
+INFO 2024-05-27 14:38:42,160 autoreload 6348 19136 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-05-27 14:38:42,547 autoreload 19104 21860 Watching for file changes with StatReloader
+INFO 2024-05-27 14:38:46,959 autoreload 19104 21860 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-05-27 14:38:47,348 autoreload 23620 24704 Watching for file changes with StatReloader
+INFO 2024-05-27 14:38:53,817 autoreload 23620 24704 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-05-27 14:38:54,221 autoreload 5424 19168 Watching for file changes with StatReloader
+INFO 2024-05-27 14:38:56,584 autoreload 5424 19168 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-05-27 14:38:56,989 autoreload 11392 18484 Watching for file changes with StatReloader
+INFO 2024-05-27 14:39:02,405 autoreload 11392 18484 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-05-27 14:39:02,812 autoreload 8336 6860 Watching for file changes with StatReloader
+INFO 2024-05-27 14:39:14,401 autoreload 8336 6860 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-05-27 14:39:14,808 autoreload 19956 18424 Watching for file changes with StatReloader
+INFO 2024-05-27 14:39:22,425 basehttp 19956 17132 "GET /les3/ HTTP/1.1" 200 176
+INFO 2024-05-27 14:47:32,147 autoreload 19956 18424 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-05-27 14:47:32,589 autoreload 11580 18480 Watching for file changes with StatReloader
+INFO 2024-05-27 14:47:35,030 autoreload 11580 18480 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-05-27 14:47:35,425 autoreload 6088 2584 Watching for file changes with StatReloader
+INFO 2024-05-27 14:47:46,069 autoreload 6088 2584 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-05-27 14:47:46,501 autoreload 16972 23492 Watching for file changes with StatReloader
+INFO 2024-05-27 14:47:50,912 autoreload 16972 23492 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-05-27 14:47:51,313 autoreload 25044 20916 Watching for file changes with StatReloader
+INFO 2024-05-27 14:47:58,799 autoreload 25044 20916 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-05-27 14:47:59,198 autoreload 17828 20008 Watching for file changes with StatReloader
+INFO 2024-05-27 14:48:01,549 autoreload 17828 20008 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-05-27 14:48:01,937 autoreload 8612 20864 Watching for file changes with StatReloader
+INFO 2024-05-27 14:49:32,821 basehttp 8612 4640 "GET /les3/ HTTP/1.1" 200 176
+INFO 2024-05-27 14:50:38,121 autoreload 8612 20864 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-05-27 14:50:38,528 autoreload 16692 23844 Watching for file changes with StatReloader
+INFO 2024-05-27 14:50:40,871 autoreload 16692 23844 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-05-27 14:50:41,280 autoreload 25188 23036 Watching for file changes with StatReloader
+INFO 2024-05-27 14:50:45,707 autoreload 25188 23036 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-05-27 14:50:46,123 autoreload 9328 15260 Watching for file changes with StatReloader
+INFO 2024-05-27 14:50:55,706 autoreload 9328 15260 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-05-27 14:50:56,106 autoreload 5700 23768 Watching for file changes with StatReloader
+INFO 2024-05-27 14:50:57,482 autoreload 5700 23768 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-05-27 14:50:57,874 autoreload 14480 20880 Watching for file changes with StatReloader
+INFO 2024-05-27 14:51:02,336 autoreload 14480 20880 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-05-27 14:51:02,731 autoreload 6728 21452 Watching for file changes with StatReloader
+INFO 2024-05-27 14:51:06,826 basehttp 6728 7180 "GET /les3/ HTTP/1.1" 200 176
+WARNING 2024-05-27 14:51:18,732 log 6728 7180 Not Found: /les3/ша.
+WARNING 2024-05-27 14:51:18,733 basehttp 6728 7180 "GET /les3/%D1%88%D0%B0. HTTP/1.1" 404 3545
+INFO 2024-05-27 14:51:27,071 basehttp 6728 7180 "GET /les3/if/ HTTP/1.1" 200 359
+INFO 2024-05-27 14:52:22,746 autoreload 6728 21452 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-05-27 14:52:23,175 autoreload 24008 18276 Watching for file changes with StatReloader
+INFO 2024-05-27 14:55:53,257 autoreload 24008 18276 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-05-27 14:55:53,658 autoreload 14816 7332 Watching for file changes with StatReloader
+INFO 2024-05-27 14:55:55,050 autoreload 14816 7332 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-05-27 14:55:55,522 autoreload 14828 2676 Watching for file changes with StatReloader
+INFO 2024-05-27 14:56:09,312 autoreload 14828 2676 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-05-27 14:56:09,764 autoreload 16540 17788 Watching for file changes with StatReloader
+INFO 2024-05-27 14:56:12,103 autoreload 16540 17788 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-05-27 14:56:12,497 autoreload 22352 25532 Watching for file changes with StatReloader
+INFO 2024-05-27 14:56:25,173 autoreload 22352 25532 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-05-27 14:56:25,571 autoreload 16936 18636 Watching for file changes with StatReloader
+INFO 2024-05-27 14:56:41,382 autoreload 16936 18636 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-05-27 14:56:41,804 autoreload 23584 20752 Watching for file changes with StatReloader
+INFO 2024-05-27 14:56:47,254 autoreload 23584 20752 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-05-27 14:56:47,642 autoreload 6356 12584 Watching for file changes with StatReloader
+INFO 2024-05-27 14:56:56,189 autoreload 6356 12584 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-05-27 14:56:56,589 autoreload 17904 26244 Watching for file changes with StatReloader
+INFO 2024-05-27 14:57:08,283 basehttp 17904 13976 "GET /les3/for/ HTTP/1.1" 200 859
+INFO 2024-05-27 15:19:41,116 autoreload 17904 26244 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-05-27 15:19:41,545 autoreload 27208 26724 Watching for file changes with StatReloader
+INFO 2024-05-27 15:19:46,049 autoreload 27208 26724 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-05-27 15:19:46,455 autoreload 6184 22944 Watching for file changes with StatReloader
+INFO 2024-05-27 15:19:51,892 autoreload 6184 22944 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-05-27 15:19:52,281 autoreload 27304 27004 Watching for file changes with StatReloader
+INFO 2024-05-27 15:19:55,641 autoreload 27304 27004 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-05-27 15:19:56,035 autoreload 27408 19140 Watching for file changes with StatReloader
+INFO 2024-05-27 15:19:58,400 autoreload 27408 19140 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-05-27 15:19:58,792 autoreload 19904 17908 Watching for file changes with StatReloader
+INFO 2024-05-27 15:20:03,205 autoreload 19904 17908 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-05-27 15:20:03,611 autoreload 26900 7800 Watching for file changes with StatReloader
+INFO 2024-05-27 15:20:06,014 autoreload 26900 7800 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-05-27 15:20:06,449 autoreload 22688 15176 Watching for file changes with StatReloader
+INFO 2024-05-27 15:20:08,871 autoreload 22688 15176 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-05-27 15:20:09,280 autoreload 17392 2536 Watching for file changes with StatReloader
+INFO 2024-05-27 15:20:11,628 autoreload 17392 2536 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-05-27 15:20:12,059 autoreload 27416 25236 Watching for file changes with StatReloader
+INFO 2024-05-27 15:20:13,420 autoreload 27416 25236 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-05-27 15:20:13,826 autoreload 27140 15448 Watching for file changes with StatReloader
+INFO 2024-05-27 15:20:15,201 autoreload 27140 15448 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-05-27 15:20:15,614 autoreload 11284 14380 Watching for file changes with StatReloader
+INFO 2024-05-27 15:20:23,144 autoreload 11284 14380 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-05-27 15:20:23,553 autoreload 13944 23312 Watching for file changes with StatReloader
+INFO 2024-05-27 15:20:28,035 autoreload 13944 23312 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-05-27 15:20:28,432 autoreload 13548 18940 Watching for file changes with StatReloader
+INFO 2024-05-27 15:20:30,850 autoreload 13548 18940 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-05-27 15:20:31,280 autoreload 22444 25320 Watching for file changes with StatReloader
+INFO 2024-05-27 15:20:36,723 autoreload 22444 25320 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-05-27 15:20:37,145 autoreload 6016 2780 Watching for file changes with StatReloader
+INFO 2024-05-27 15:20:40,509 autoreload 6016 2780 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-05-27 15:20:40,912 autoreload 6856 25612 Watching for file changes with StatReloader
+INFO 2024-05-27 15:20:43,250 autoreload 6856 25612 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-05-27 15:20:43,680 autoreload 9460 11748 Watching for file changes with StatReloader
+INFO 2024-05-27 15:20:47,034 autoreload 9460 11748 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-05-27 15:20:47,426 autoreload 15796 1088 Watching for file changes with StatReloader
+INFO 2024-05-27 15:20:50,231 autoreload 15796 1088 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-05-27 15:20:50,680 autoreload 20584 24956 Watching for file changes with StatReloader
+INFO 2024-05-27 15:20:53,078 autoreload 20584 24956 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-05-27 15:20:53,502 autoreload 24292 14180 Watching for file changes with StatReloader
+INFO 2024-05-27 15:20:56,898 autoreload 24292 14180 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-05-27 15:20:57,305 autoreload 24116 6432 Watching for file changes with StatReloader
+INFO 2024-05-27 15:21:01,796 autoreload 24116 6432 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-05-27 15:21:02,218 autoreload 27152 2264 Watching for file changes with StatReloader
+INFO 2024-05-27 15:21:05,667 autoreload 27152 2264 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-05-27 15:21:06,110 autoreload 23620 3372 Watching for file changes with StatReloader
+INFO 2024-05-27 15:21:08,537 autoreload 23620 3372 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-05-27 15:21:08,972 autoreload 22340 25656 Watching for file changes with StatReloader
+INFO 2024-05-27 15:21:14,457 autoreload 22340 25656 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-05-27 15:21:14,883 autoreload 13448 5060 Watching for file changes with StatReloader
+INFO 2024-05-27 15:21:38,844 autoreload 13448 5060 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-05-27 15:21:39,269 autoreload 27032 26936 Watching for file changes with StatReloader
+INFO 2024-05-27 15:21:40,666 autoreload 27032 26936 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-05-27 15:21:41,114 autoreload 23056 10112 Watching for file changes with StatReloader
+INFO 2024-05-27 15:22:13,032 autoreload 23056 10112 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-05-27 15:22:13,447 autoreload 18832 27172 Watching for file changes with StatReloader
+INFO 2024-05-27 15:22:15,815 autoreload 18832 27172 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-05-27 15:22:16,225 autoreload 21680 2492 Watching for file changes with StatReloader
+INFO 2024-05-27 15:22:22,695 autoreload 21680 2492 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-05-27 15:22:23,104 autoreload 13872 2536 Watching for file changes with StatReloader
+INFO 2024-05-27 15:22:26,472 autoreload 13872 2536 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-05-27 15:22:26,858 autoreload 10260 27368 Watching for file changes with StatReloader
+INFO 2024-05-27 15:22:32,299 autoreload 10260 27368 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-05-27 15:22:32,709 autoreload 20880 8968 Watching for file changes with StatReloader
+INFO 2024-05-27 15:22:35,045 autoreload 20880 8968 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-05-27 15:22:35,464 autoreload 22252 22088 Watching for file changes with StatReloader
+INFO 2024-05-27 15:22:43,966 autoreload 22252 22088 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-05-27 15:22:44,371 autoreload 26740 7244 Watching for file changes with StatReloader
+INFO 2024-05-27 15:22:54,954 autoreload 26740 7244 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-05-27 15:22:55,344 autoreload 9328 23336 Watching for file changes with StatReloader
+INFO 2024-05-27 15:22:57,733 autoreload 9328 23336 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-05-27 15:22:58,137 autoreload 11540 22816 Watching for file changes with StatReloader
+INFO 2024-05-27 15:23:01,496 autoreload 11540 22816 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-05-27 15:23:01,922 autoreload 11808 21548 Watching for file changes with StatReloader
+INFO 2024-05-27 15:23:05,325 autoreload 11808 21548 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-05-27 15:23:05,743 autoreload 23288 15280 Watching for file changes with StatReloader
+INFO 2024-05-27 15:23:09,173 autoreload 23288 15280 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-05-27 15:23:09,592 autoreload 13784 10500 Watching for file changes with StatReloader
+INFO 2024-05-27 15:23:10,963 autoreload 13784 10500 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-05-27 15:23:11,367 autoreload 27368 4920 Watching for file changes with StatReloader
+INFO 2024-05-27 15:23:23,003 autoreload 27368 4920 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-05-27 15:23:23,418 autoreload 26772 11356 Watching for file changes with StatReloader
+INFO 2024-05-27 15:23:27,899 autoreload 26772 11356 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-05-27 15:23:28,309 autoreload 10492 5812 Watching for file changes with StatReloader
+INFO 2024-05-27 15:23:29,682 autoreload 10492 5812 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-05-27 15:23:30,104 autoreload 8860 21576 Watching for file changes with StatReloader
+INFO 2024-05-27 15:23:35,631 autoreload 8860 21576 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-05-27 15:23:36,079 autoreload 2776 5848 Watching for file changes with StatReloader
+INFO 2024-05-27 15:23:39,447 autoreload 2776 5848 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-05-27 15:23:39,839 autoreload 27500 27324 Watching for file changes with StatReloader
+INFO 2024-05-27 15:23:48,396 autoreload 27500 27324 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-05-27 15:23:48,824 autoreload 17988 16012 Watching for file changes with StatReloader
+INFO 2024-05-27 15:23:53,309 autoreload 17988 16012 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-05-27 15:23:53,743 autoreload 27008 26640 Watching for file changes with StatReloader
+INFO 2024-05-27 15:23:55,152 autoreload 27008 26640 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-05-27 15:23:55,571 autoreload 27332 17904 Watching for file changes with StatReloader
+INFO 2024-05-27 15:24:00,075 autoreload 27332 17904 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-05-27 15:24:00,507 autoreload 20380 20760 Watching for file changes with StatReloader
+INFO 2024-05-27 15:24:01,884 autoreload 20380 20760 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-05-27 15:24:02,296 autoreload 5144 26744 Watching for file changes with StatReloader
+INFO 2024-05-27 15:24:19,655 basehttp 5144 15520 "GET /les3/index/ HTTP/1.1" 200 223
+INFO 2024-05-27 15:24:28,664 basehttp 5144 15520 "GET /les3/about/ HTTP/1.1" 200 231
+INFO 2024-05-27 15:26:25,891 autoreload 5144 26744 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myproject\settings.py changed, reloading.
+INFO 2024-05-27 15:26:26,336 autoreload 27312 23336 Watching for file changes with StatReloader
+INFO 2024-05-27 15:26:30,808 autoreload 27312 23336 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myproject\settings.py changed, reloading.
+INFO 2024-05-27 15:26:31,227 autoreload 26896 27428 Watching for file changes with StatReloader
+INFO 2024-05-27 15:26:34,697 autoreload 26896 27428 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myproject\settings.py changed, reloading.
+INFO 2024-05-27 15:34:12,163 autoreload 27496 15700 Watching for file changes with StatReloader
+INFO 2024-05-27 15:34:19,391 basehttp 27496 7712 "GET /les3/index/ HTTP/1.1" 200 283
+INFO 2024-05-27 15:36:59,465 autoreload 27496 15700 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myproject\urls.py changed, reloading.
+INFO 2024-05-27 15:36:59,925 autoreload 27152 3492 Watching for file changes with StatReloader
+INFO 2024-05-27 15:37:01,322 autoreload 27152 3492 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myproject\urls.py changed, reloading.
+INFO 2024-05-27 15:37:01,754 autoreload 8220 324 Watching for file changes with StatReloader
+INFO 2024-05-27 15:37:04,114 autoreload 8220 324 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myproject\urls.py changed, reloading.
+INFO 2024-05-27 15:37:04,517 autoreload 22088 25112 Watching for file changes with StatReloader
+INFO 2024-05-27 15:37:10,988 autoreload 22088 25112 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myproject\urls.py changed, reloading.
+INFO 2024-05-27 15:37:11,380 autoreload 26708 24116 Watching for file changes with StatReloader
+INFO 2024-05-27 15:37:13,715 autoreload 26708 24116 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myproject\urls.py changed, reloading.
+INFO 2024-05-27 15:37:14,127 autoreload 10108 10164 Watching for file changes with StatReloader
+INFO 2024-05-27 15:37:17,485 autoreload 10108 10164 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myproject\urls.py changed, reloading.
+INFO 2024-05-27 15:37:17,885 autoreload 23888 17004 Watching for file changes with StatReloader
+INFO 2024-05-27 15:37:19,268 autoreload 23888 17004 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myproject\urls.py changed, reloading.
+INFO 2024-05-27 15:37:19,669 autoreload 7192 14880 Watching for file changes with StatReloader
+INFO 2024-05-27 15:37:23,106 autoreload 7192 14880 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myproject\urls.py changed, reloading.
+INFO 2024-05-27 15:37:23,510 autoreload 27596 26920 Watching for file changes with StatReloader
+INFO 2024-05-27 15:37:27,914 autoreload 27596 26920 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myproject\urls.py changed, reloading.
+INFO 2024-05-27 15:37:28,296 autoreload 9920 6008 Watching for file changes with StatReloader
+INFO 2024-05-27 15:37:32,689 autoreload 9920 6008 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myproject\urls.py changed, reloading.
+INFO 2024-05-27 15:37:33,096 autoreload 10352 18020 Watching for file changes with StatReloader
+INFO 2024-05-27 15:38:23,514 basehttp 10352 17384 "GET / HTTP/1.1" 200 283
+INFO 2024-05-27 15:55:36,417 autoreload 10352 18020 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\models.py changed, reloading.
+INFO 2024-05-27 15:55:36,882 autoreload 26668 11736 Watching for file changes with StatReloader
+INFO 2024-05-27 16:46:43,793 autoreload 26980 23680 Watching for file changes with StatReloader
+INFO 2024-05-27 16:52:31,267 autoreload 23832 6016 Watching for file changes with StatReloader
+INFO 2024-05-27 16:52:36,862 basehttp 23832 27600 "GET / HTTP/1.1" 200 283
+INFO 2024-05-27 16:52:39,544 basehttp 23832 27600 "GET / HTTP/1.1" 200 283
+WARNING 2024-05-27 16:53:12,334 log 23832 27600 Not Found: /les3/author
+WARNING 2024-05-27 16:53:12,334 basehttp 23832 27600 "GET /les3/author HTTP/1.1" 404 4555
+INFO 2024-05-27 16:53:16,918 basehttp 23832 27600 "GET /les3/author/5 HTTP/1.1" 301 0
+WARNING 2024-05-27 16:53:16,929 log 23832 20080 Not Found: /les3/author/5/
+WARNING 2024-05-27 16:53:16,931 basehttp 23832 20080 "GET /les3/author/5/ HTTP/1.1" 404 4432
+WARNING 2024-05-27 16:54:37,325 log 23832 20080 Not Found: /les3/author/5/
+WARNING 2024-05-27 16:54:37,326 basehttp 23832 20080 "GET /les3/author/5/ HTTP/1.1" 404 4432
+INFO 2024-05-27 17:02:09,711 basehttp 23832 7244 "GET /les3/ HTTP/1.1" 200 176
+WARNING 2024-05-27 17:02:15,023 log 23832 7244 Not Found: /les3/author
+WARNING 2024-05-27 17:02:15,024 basehttp 23832 7244 "GET /les3/author HTTP/1.1" 404 4555
+WARNING 2024-05-27 17:02:25,190 log 23832 7244 Not Found: /les3/author/5/
+WARNING 2024-05-27 17:02:25,190 basehttp 23832 7244 "GET /les3/author/5/ HTTP/1.1" 404 4432
+INFO 2024-05-27 17:11:32,190 autoreload 23832 6016 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp2\models.py changed, reloading.
+INFO 2024-05-27 17:11:32,661 autoreload 27344 14556 Watching for file changes with StatReloader
+WARNING 2024-05-27 17:11:36,590 log 27344 24500 Not Found: /les3/author/5/
+WARNING 2024-05-27 17:11:36,591 basehttp 27344 24500 "GET /les3/author/5/ HTTP/1.1" 404 4432
+WARNING 2024-05-27 17:11:39,108 log 27344 24500 Not Found: /les3/author/5/
+WARNING 2024-05-27 17:11:39,109 basehttp 27344 24500 "GET /les3/author/5/ HTTP/1.1" 404 4432
+WARNING 2024-05-27 17:11:40,940 log 27344 24500 Not Found: /les3/author/5/
+WARNING 2024-05-27 17:11:40,940 basehttp 27344 24500 "GET /les3/author/5/ HTTP/1.1" 404 4432
+WARNING 2024-05-27 17:11:41,764 log 27344 24500 Not Found: /les3/author/5/
+WARNING 2024-05-27 17:11:41,764 basehttp 27344 24500 "GET /les3/author/5/ HTTP/1.1" 404 4432
+INFO 2024-05-27 17:12:42,172 autoreload 27344 14556 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp3\models.py changed, reloading.
+INFO 2024-05-27 17:12:42,568 autoreload 14320 20732 Watching for file changes with StatReloader
+WARNING 2024-05-27 17:13:28,812 log 14320 27284 Not Found: /les3/author/5/
+WARNING 2024-05-27 17:13:28,813 basehttp 14320 27284 "GET /les3/author/5/ HTTP/1.1" 404 4432
+INFO 2024-05-27 17:21:28,735 basehttp 14320 16088 "GET /les3/author/18/ HTTP/1.1" 200 1385
+INFO 2024-05-27 17:22:34,655 autoreload 14320 20732 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp2\models.py changed, reloading.
+INFO 2024-05-27 17:22:35,107 autoreload 19912 7844 Watching for file changes with StatReloader
+INFO 2024-05-27 17:22:40,019 basehttp 19912 11924 "GET /les3/author/18/ HTTP/1.1" 200 1385
+INFO 2024-05-27 17:22:44,803 basehttp 19912 11924 "GET /les3/author/19/ HTTP/1.1" 200 1374
+INFO 2024-05-27 17:22:52,695 basehttp 19912 11924 "GET /les3/author/20/ HTTP/1.1" 200 1410
+INFO 2024-05-28 14:59:58,453 autoreload 8648 14576 Watching for file changes with StatReloader
+INFO 2024-05-28 15:09:14,194 autoreload 8648 14576 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myproject\urls.py changed, reloading.
+INFO 2024-05-28 15:09:14,670 autoreload 14544 11332 Watching for file changes with StatReloader
+INFO 2024-05-28 15:10:14,194 basehttp 14544 25468 "GET / HTTP/1.1" 200 310
+WARNING 2024-05-28 15:10:14,631 log 14544 25468 Not Found: /favicon.ico
+WARNING 2024-05-28 15:10:14,631 basehttp 14544 25468 "GET /favicon.ico HTTP/1.1" 404 2530
+INFO 2024-05-28 15:10:35,735 basehttp 14544 25468 "GET /les4/user/add/ HTTP/1.1" 200 608
+INFO 2024-05-28 15:14:00,637 basehttp 14544 2944 "GET /les4/user/add/ HTTP/1.1" 200 830
+INFO 2024-05-28 15:16:12,647 basehttp 14544 2944 "POST /les4/user/add/ HTTP/1.1" 200 886
+INFO 2024-05-28 15:16:37,947 basehttp 14544 2944 "POST /les4/user/add/ HTTP/1.1" 200 886
+INFO 2024-05-28 15:16:55,419 autoreload 12164 17740 Watching for file changes with StatReloader
+INFO 2024-05-28 15:17:01,284 basehttp 12164 14540 "POST /les4/user/add/ HTTP/1.1" 200 886
+INFO 2024-05-28 15:17:03,312 basehttp 12164 14540 "POST /les4/user/add/ HTTP/1.1" 200 886
+INFO 2024-05-28 15:17:15,425 basehttp 12164 14540 "POST /les4/user/add/ HTTP/1.1" 200 886
+INFO 2024-05-28 15:19:48,746 basehttp 12164 14540 "POST /les4/user/add/ HTTP/1.1" 200 828
+INFO 2024-05-28 15:19:50,924 basehttp 12164 14540 "POST /les4/user/add/ HTTP/1.1" 200 828
+INFO 2024-05-28 15:19:52,855 basehttp 12164 14540 "POST /les4/user/add/ HTTP/1.1" 200 828
+INFO 2024-05-28 15:19:53,338 basehttp 12164 14540 "POST /les4/user/add/ HTTP/1.1" 200 828
+INFO 2024-05-28 15:21:24,112 autoreload 12164 17740 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\views.py changed, reloading.
+INFO 2024-05-28 15:21:24,540 autoreload 17092 4780 Watching for file changes with StatReloader
+ERROR 2024-05-28 15:21:43,272 log 17092 15164 Internal Server Error: /les4/user/add/
+Traceback (most recent call last):
+  File "C:\Users\grech\Documents\GeekBrains\Django_lessons\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\grech\Documents\GeekBrains\Django_lessons\env\Lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    self.check_response(response, callback)
+  File "C:\Users\grech\Documents\GeekBrains\Django_lessons\env\Lib\site-packages\django\core\handlers\base.py", line 332, in check_response
+    raise ValueError(
+ValueError: The view myapp4.views.user_form didn't return an HttpResponse object. It returned None instead.
+ERROR 2024-05-28 15:21:43,275 basehttp 17092 15164 "POST /les4/user/add/ HTTP/1.1" 500 70047
+INFO 2024-05-28 15:22:25,003 autoreload 17092 4780 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\views.py changed, reloading.
+INFO 2024-05-28 15:22:25,433 autoreload 23836 13368 Watching for file changes with StatReloader
+INFO 2024-05-28 15:22:49,530 autoreload 23836 13368 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\views.py changed, reloading.
+INFO 2024-05-28 15:22:49,944 autoreload 8600 6180 Watching for file changes with StatReloader
+INFO 2024-05-28 15:22:57,278 basehttp 8600 19556 "POST /les4/user/add/ HTTP/1.1" 200 828
+INFO 2024-05-28 15:22:59,006 basehttp 8600 19556 "POST /les4/user/add/ HTTP/1.1" 200 828
+INFO 2024-05-28 15:23:13,188 autoreload 8600 6180 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\views.py changed, reloading.
+INFO 2024-05-28 15:23:13,575 autoreload 7300 17676 Watching for file changes with StatReloader
+INFO 2024-05-28 15:23:18,263 basehttp 7300 17264 "POST /les4/user/add/ HTTP/1.1" 200 828
+INFO 2024-05-28 15:23:19,670 basehttp 7300 17264 "POST /les4/user/add/ HTTP/1.1" 200 828
+INFO 2024-05-28 15:25:59,214 autoreload 7300 17676 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\views.py changed, reloading.
+INFO 2024-05-28 15:25:59,669 autoreload 6136 25584 Watching for file changes with StatReloader
+INFO 2024-05-28 15:26:31,982 autoreload 6136 25584 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\views.py changed, reloading.
+INFO 2024-05-28 15:26:32,428 autoreload 25036 16040 Watching for file changes with StatReloader
+INFO 2024-05-28 15:26:39,949 autoreload 25036 16040 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\views.py changed, reloading.
+INFO 2024-05-28 15:26:40,368 autoreload 21324 13744 Watching for file changes with StatReloader
+INFO 2024-05-28 15:26:42,739 autoreload 21324 13744 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\views.py changed, reloading.
+INFO 2024-05-28 15:26:43,140 autoreload 24760 24412 Watching for file changes with StatReloader
+INFO 2024-05-28 15:28:40,700 basehttp 24760 14292 "GET / HTTP/1.1" 200 250
+INFO 2024-05-28 15:28:46,388 basehttp 24760 14292 "GET /les4/user/add/ HTTP/1.1" 200 772
+INFO 2024-05-28 15:29:05,465 basehttp 24760 14292 "POST /les4/user/add/ HTTP/1.1" 200 834
+INFO 2024-05-28 15:29:30,302 basehttp 24760 14292 "POST /les4/user/add/ HTTP/1.1" 200 834
+INFO 2024-05-28 15:30:29,575 autoreload 24760 24412 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-05-28 15:30:30,002 autoreload 25344 24240 Watching for file changes with StatReloader
+INFO 2024-05-28 15:30:31,411 autoreload 25344 24240 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-05-28 15:30:31,843 autoreload 6324 25304 Watching for file changes with StatReloader
+INFO 2024-05-28 15:30:42,415 autoreload 6324 25304 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-05-28 15:30:42,822 autoreload 12828 17904 Watching for file changes with StatReloader
+INFO 2024-05-28 15:30:51,345 autoreload 12828 17904 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-05-28 15:30:51,775 autoreload 25592 13076 Watching for file changes with StatReloader
+INFO 2024-05-28 15:30:58,263 autoreload 25592 13076 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-05-28 15:30:58,669 autoreload 16004 18252 Watching for file changes with StatReloader
+INFO 2024-05-28 15:31:01,129 autoreload 16004 18252 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-05-28 15:31:01,551 autoreload 5944 21484 Watching for file changes with StatReloader
+INFO 2024-05-28 15:33:48,609 autoreload 5944 21484 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\views.py changed, reloading.
+INFO 2024-05-28 15:33:49,050 autoreload 25256 13500 Watching for file changes with StatReloader
+INFO 2024-05-28 15:33:52,445 autoreload 25256 13500 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\views.py changed, reloading.
+INFO 2024-05-28 15:33:52,845 autoreload 17364 4672 Watching for file changes with StatReloader
+INFO 2024-05-28 15:33:56,235 autoreload 17364 4672 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\views.py changed, reloading.
+INFO 2024-05-28 15:33:56,690 autoreload 4368 3048 Watching for file changes with StatReloader
+INFO 2024-05-28 15:34:45,642 autoreload 4368 3048 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\urls.py changed, reloading.
+INFO 2024-05-28 15:34:46,080 autoreload 18248 364 Watching for file changes with StatReloader
+INFO 2024-05-28 15:35:01,832 autoreload 18248 364 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\urls.py changed, reloading.
+INFO 2024-05-28 15:35:02,241 autoreload 7552 17776 Watching for file changes with StatReloader
+INFO 2024-05-28 15:35:44,817 autoreload 7552 17776 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\views.py changed, reloading.
+INFO 2024-05-28 15:35:45,236 autoreload 21636 15768 Watching for file changes with StatReloader
+INFO 2024-05-28 15:35:49,704 autoreload 21636 15768 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\views.py changed, reloading.
+INFO 2024-05-28 15:35:50,119 autoreload 23324 15364 Watching for file changes with StatReloader
+INFO 2024-05-28 15:36:00,733 autoreload 23324 15364 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\views.py changed, reloading.
+INFO 2024-05-28 15:36:01,144 autoreload 15176 8672 Watching for file changes with StatReloader
+INFO 2024-05-28 15:36:18,961 autoreload 15176 8672 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\views.py changed, reloading.
+INFO 2024-05-28 15:36:19,345 autoreload 9916 2376 Watching for file changes with StatReloader
+INFO 2024-05-28 15:36:23,797 autoreload 9916 2376 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\views.py changed, reloading.
+INFO 2024-05-28 15:36:24,221 autoreload 2800 7260 Watching for file changes with StatReloader
+INFO 2024-05-28 15:36:38,913 autoreload 2800 7260 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\views.py changed, reloading.
+INFO 2024-05-28 15:36:39,301 autoreload 8072 22360 Watching for file changes with StatReloader
+INFO 2024-05-28 15:36:56,198 autoreload 8072 22360 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\views.py changed, reloading.
+INFO 2024-05-28 15:36:56,628 autoreload 25044 23600 Watching for file changes with StatReloader
+INFO 2024-05-28 15:38:52,371 basehttp 25044 22088 "GET /les4/forms/ HTTP/1.1" 200 1454
+INFO 2024-05-28 15:39:18,133 basehttp 25044 22088 "POST /les4/forms/ HTTP/1.1" 200 1537
+INFO 2024-05-28 15:51:39,735 autoreload 25044 23600 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-05-28 15:51:40,171 autoreload 5724 23636 Watching for file changes with StatReloader
+INFO 2024-05-28 15:51:47,689 autoreload 5724 23636 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-05-28 15:51:48,100 autoreload 16300 17940 Watching for file changes with StatReloader
+INFO 2024-05-28 15:51:50,485 autoreload 16300 17940 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-05-28 15:51:50,887 autoreload 25592 17052 Watching for file changes with StatReloader
+INFO 2024-05-28 15:51:53,231 autoreload 25592 17052 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-05-28 15:51:53,641 autoreload 24144 23700 Watching for file changes with StatReloader
+INFO 2024-05-28 15:51:57,058 autoreload 24144 23700 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-05-28 15:51:57,456 autoreload 24732 5972 Watching for file changes with StatReloader
+INFO 2024-05-28 15:52:00,833 autoreload 24732 5972 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-05-28 15:52:01,215 autoreload 408 4576 Watching for file changes with StatReloader
+INFO 2024-05-28 15:52:05,617 autoreload 408 4576 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-05-28 15:52:06,041 autoreload 11940 17200 Watching for file changes with StatReloader
+INFO 2024-05-28 15:52:11,481 autoreload 11940 17200 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-05-28 15:52:11,953 autoreload 1924 3444 Watching for file changes with StatReloader
+INFO 2024-05-28 15:52:17,408 autoreload 1924 3444 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-05-28 15:52:17,821 autoreload 25056 18264 Watching for file changes with StatReloader
+INFO 2024-05-28 15:52:21,253 autoreload 25056 18264 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-05-28 15:52:21,693 autoreload 2536 25336 Watching for file changes with StatReloader
+INFO 2024-05-28 15:52:26,142 autoreload 2536 25336 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-05-28 15:52:26,556 autoreload 20512 25292 Watching for file changes with StatReloader
+INFO 2024-05-28 15:52:29,969 autoreload 20512 25292 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-05-28 15:52:30,395 autoreload 17800 23620 Watching for file changes with StatReloader
+INFO 2024-05-28 15:52:35,876 autoreload 17800 23620 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-05-28 15:52:36,275 autoreload 14448 23900 Watching for file changes with StatReloader
+INFO 2024-05-28 15:52:41,731 autoreload 14448 23900 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-05-28 15:52:42,114 autoreload 25136 17052 Watching for file changes with StatReloader
+INFO 2024-05-28 15:52:45,516 autoreload 25136 17052 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-05-28 15:52:46,002 autoreload 5652 24664 Watching for file changes with StatReloader
+INFO 2024-05-28 15:52:48,393 autoreload 5652 24664 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-05-28 15:52:48,810 autoreload 25420 4088 Watching for file changes with StatReloader
+INFO 2024-05-28 15:52:52,193 autoreload 25420 4088 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-05-28 15:52:52,584 autoreload 17284 7748 Watching for file changes with StatReloader
+INFO 2024-05-28 15:53:00,063 autoreload 17284 7748 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-05-28 15:53:00,497 autoreload 22792 6368 Watching for file changes with StatReloader
+INFO 2024-05-28 15:53:05,954 autoreload 22792 6368 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-05-28 15:53:06,386 autoreload 14732 23052 Watching for file changes with StatReloader
+INFO 2024-05-28 15:53:10,836 autoreload 14732 23052 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-05-28 15:53:11,231 autoreload 13368 3212 Watching for file changes with StatReloader
+INFO 2024-05-28 15:54:25,898 autoreload 13368 3212 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-05-28 15:54:26,301 autoreload 21256 15256 Watching for file changes with StatReloader
+INFO 2024-05-28 15:54:28,746 autoreload 21256 15256 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-05-28 15:54:29,183 autoreload 24880 24840 Watching for file changes with StatReloader
+INFO 2024-05-28 15:54:33,649 autoreload 24880 24840 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-05-28 15:54:34,062 autoreload 18604 22096 Watching for file changes with StatReloader
+INFO 2024-05-28 15:54:36,476 autoreload 18604 22096 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-05-28 15:54:36,902 autoreload 4028 19608 Watching for file changes with StatReloader
+INFO 2024-05-28 15:54:39,255 autoreload 4028 19608 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-05-28 15:54:39,650 autoreload 3408 25268 Watching for file changes with StatReloader
+INFO 2024-05-28 15:54:41,996 autoreload 3408 25268 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-05-28 15:54:42,393 autoreload 6428 18360 Watching for file changes with StatReloader
+INFO 2024-05-28 15:54:44,771 autoreload 6428 18360 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-05-28 15:54:45,185 autoreload 3292 24840 Watching for file changes with StatReloader
+INFO 2024-05-28 15:54:46,585 autoreload 3292 24840 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-05-28 15:54:47,000 autoreload 7944 6652 Watching for file changes with StatReloader
+INFO 2024-05-28 15:56:37,818 autoreload 7944 6652 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\views.py changed, reloading.
+INFO 2024-05-28 15:56:38,258 autoreload 14796 24956 Watching for file changes with StatReloader
+INFO 2024-05-28 15:56:42,770 autoreload 14796 24956 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\views.py changed, reloading.
+INFO 2024-05-28 15:56:43,222 autoreload 3584 15176 Watching for file changes with StatReloader
+INFO 2024-05-28 15:56:44,628 autoreload 3584 15176 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\views.py changed, reloading.
+INFO 2024-05-28 15:56:45,039 autoreload 2536 17812 Watching for file changes with StatReloader
+INFO 2024-05-28 15:56:54,691 autoreload 2536 17812 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\views.py changed, reloading.
+INFO 2024-05-28 15:56:55,182 autoreload 4112 6136 Watching for file changes with StatReloader
+INFO 2024-05-28 15:57:03,809 autoreload 4112 6136 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\views.py changed, reloading.
+INFO 2024-05-28 15:57:04,252 autoreload 15908 25308 Watching for file changes with StatReloader
+INFO 2024-05-28 15:57:05,705 autoreload 15908 25308 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\views.py changed, reloading.
+INFO 2024-05-28 15:57:06,123 autoreload 4936 3524 Watching for file changes with StatReloader
+INFO 2024-05-28 15:57:14,013 basehttp 4936 25376 "POST /les4/forms/ HTTP/1.1" 200 2236
+INFO 2024-05-28 16:02:05,585 autoreload 4936 3524 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-05-28 16:02:06,026 autoreload 1708 24620 Watching for file changes with StatReloader
+INFO 2024-05-28 16:02:07,407 autoreload 1708 24620 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-05-28 16:02:07,814 autoreload 18308 9488 Watching for file changes with StatReloader
+INFO 2024-05-28 16:02:11,178 autoreload 18308 9488 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-05-28 16:02:11,608 autoreload 25100 18304 Watching for file changes with StatReloader
+INFO 2024-05-28 16:02:19,143 autoreload 25100 18304 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-05-28 16:02:19,590 autoreload 23368 412 Watching for file changes with StatReloader
+INFO 2024-05-28 16:02:21,974 autoreload 23368 412 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-05-28 16:02:22,368 autoreload 17360 24856 Watching for file changes with StatReloader
+INFO 2024-05-28 16:02:24,714 autoreload 17360 24856 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-05-28 16:02:25,118 autoreload 15152 11332 Watching for file changes with StatReloader
+INFO 2024-05-28 16:02:51,077 autoreload 15152 11332 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-05-28 16:02:51,495 autoreload 6928 22792 Watching for file changes with StatReloader
+INFO 2024-05-28 16:02:56,941 autoreload 6928 22792 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-05-28 16:02:57,354 autoreload 24936 22984 Watching for file changes with StatReloader
+INFO 2024-05-28 16:03:05,881 autoreload 24936 22984 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-05-28 16:03:06,296 autoreload 9016 13108 Watching for file changes with StatReloader
+INFO 2024-05-28 16:03:52,802 autoreload 9016 13108 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-05-28 16:03:53,222 autoreload 23568 17064 Watching for file changes with StatReloader
+INFO 2024-05-28 16:03:56,612 autoreload 23568 17064 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-05-28 16:03:57,009 autoreload 15648 11940 Watching for file changes with StatReloader
+INFO 2024-05-28 16:04:01,555 basehttp 15648 1988 "POST /les4/forms/ HTTP/1.1" 200 2236
+INFO 2024-05-28 16:04:13,733 basehttp 15648 1988 "POST /les4/forms/ HTTP/1.1" 200 2240
+INFO 2024-05-28 16:04:45,028 autoreload 15648 11940 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\models.py changed, reloading.
+INFO 2024-05-28 16:04:45,468 autoreload 25232 3412 Watching for file changes with StatReloader
+INFO 2024-05-28 16:04:46,865 autoreload 25232 3412 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\models.py changed, reloading.
+INFO 2024-05-28 16:04:47,263 autoreload 17812 23864 Watching for file changes with StatReloader
+INFO 2024-05-28 16:04:52,612 autoreload 17812 23864 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\models.py changed, reloading.
+INFO 2024-05-28 16:04:53,024 autoreload 24944 18320 Watching for file changes with StatReloader
+INFO 2024-05-28 16:04:59,405 autoreload 24944 18320 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\models.py changed, reloading.
+INFO 2024-05-28 16:04:59,809 autoreload 25284 22880 Watching for file changes with StatReloader
+INFO 2024-05-28 16:05:05,179 autoreload 25284 22880 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\models.py changed, reloading.
+INFO 2024-05-28 16:05:05,619 autoreload 2152 9260 Watching for file changes with StatReloader
+INFO 2024-05-28 16:05:07,931 autoreload 2152 9260 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\models.py changed, reloading.
+INFO 2024-05-28 16:05:08,321 autoreload 7748 23620 Watching for file changes with StatReloader
+INFO 2024-05-28 16:05:09,597 autoreload 7748 23620 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\models.py changed, reloading.
+INFO 2024-05-28 16:05:09,990 autoreload 1968 24616 Watching for file changes with StatReloader
+INFO 2024-05-28 16:05:13,324 autoreload 1968 24616 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\models.py changed, reloading.
+INFO 2024-05-28 16:05:13,713 autoreload 9432 23432 Watching for file changes with StatReloader
+INFO 2024-05-28 16:09:57,171 autoreload 23996 1836 Watching for file changes with StatReloader
+INFO 2024-05-28 16:10:02,219 basehttp 23996 25268 "POST /les4/forms/ HTTP/1.1" 200 2240
+INFO 2024-05-28 16:10:11,366 basehttp 23996 25268 "GET /les4/user/add/ HTTP/1.1" 200 782
+INFO 2024-05-28 16:12:38,609 basehttp 23996 25268 "POST /les4/user/add/ HTTP/1.1" 200 953
+INFO 2024-05-28 16:13:10,659 basehttp 23996 25268 "POST /les4/user/add/ HTTP/1.1" 200 944
+INFO 2024-05-28 16:13:34,670 basehttp 23996 25268 "POST /les4/user/add/ HTTP/1.1" 200 941
+INFO 2024-05-28 16:13:43,330 basehttp 23996 25268 "POST /les4/user/add/ HTTP/1.1" 200 941
+INFO 2024-05-28 16:16:00,642 basehttp 23996 25268 "POST /les4/user/add/ HTTP/1.1" 200 830
+INFO 2024-05-28 16:17:27,365 basehttp 23996 25268 "POST /les4/user/add/ HTTP/1.1" 200 830
+INFO 2024-05-28 16:17:36,267 basehttp 23996 25268 "POST /les4/user/add/ HTTP/1.1" 200 833
+INFO 2024-05-28 16:17:41,067 basehttp 23996 25268 "POST /les4/user/add/ HTTP/1.1" 200 833
+INFO 2024-05-28 16:17:50,313 basehttp 23996 25268 "POST /les4/user/add/ HTTP/1.1" 200 840
+INFO 2024-05-28 16:18:27,640 basehttp 23996 25268 "POST /les4/user/add/ HTTP/1.1" 200 840
+INFO 2024-05-28 16:21:48,887 autoreload 23996 1836 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\views.py changed, reloading.
+INFO 2024-05-28 16:21:49,293 autoreload 22072 25036 Watching for file changes with StatReloader
+INFO 2024-05-28 16:21:51,743 autoreload 22072 25036 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\views.py changed, reloading.
+INFO 2024-05-28 16:21:52,165 autoreload 18164 9212 Watching for file changes with StatReloader
+INFO 2024-05-28 16:21:57,867 basehttp 18164 4376 "POST /les4/user/add/ HTTP/1.1" 200 840
+INFO 2024-05-28 16:21:59,238 basehttp 18164 4376 "POST /les4/user/add/ HTTP/1.1" 200 840
+INFO 2024-05-28 16:22:20,445 basehttp 18164 4376 "GET /les4/user/ HTTP/1.1" 200 811
+INFO 2024-05-28 16:22:34,707 basehttp 18164 4376 "GET /les4/user/add/ HTTP/1.1" 200 782
+INFO 2024-05-28 16:23:40,125 basehttp 18164 4376 "GET /les4/user/ HTTP/1.1" 200 811
+INFO 2024-05-28 16:24:02,465 basehttp 18164 4376 "POST /les4/user/ HTTP/1.1" 200 993
+INFO 2024-05-28 16:24:10,043 basehttp 18164 4376 "POST /les4/user/ HTTP/1.1" 200 992
+INFO 2024-05-28 16:24:24,675 basehttp 18164 4376 "POST /les4/user/ HTTP/1.1" 200 881
+INFO 2024-05-28 16:25:06,004 autoreload 18164 9212 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-05-28 16:25:06,459 autoreload 10364 24956 Watching for file changes with StatReloader
+INFO 2024-05-28 16:25:09,899 autoreload 10364 24956 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-05-28 16:25:10,360 autoreload 4648 5908 Watching for file changes with StatReloader
+INFO 2024-05-28 16:26:37,269 autoreload 4648 5908 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myproject\settings.py changed, reloading.
+INFO 2024-05-28 16:26:37,747 autoreload 23652 24724 Watching for file changes with StatReloader
+INFO 2024-05-28 16:26:39,165 autoreload 23652 24724 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myproject\settings.py changed, reloading.
+INFO 2024-05-28 16:26:39,626 autoreload 16772 18372 Watching for file changes with StatReloader
+INFO 2024-05-28 16:27:04,785 autoreload 16772 18372 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\views.py changed, reloading.
+INFO 2024-05-28 16:27:05,216 autoreload 18604 20304 Watching for file changes with StatReloader
+INFO 2024-05-28 16:27:11,748 autoreload 18604 20304 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\views.py changed, reloading.
+INFO 2024-05-28 16:27:12,158 autoreload 25012 24708 Watching for file changes with StatReloader
+INFO 2024-05-28 16:27:20,687 autoreload 25012 24708 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\views.py changed, reloading.
+INFO 2024-05-28 16:27:21,069 autoreload 15920 14448 Watching for file changes with StatReloader
+INFO 2024-05-28 16:27:35,763 autoreload 15920 14448 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\views.py changed, reloading.
+INFO 2024-05-28 16:27:36,163 autoreload 22696 7148 Watching for file changes with StatReloader
+INFO 2024-05-28 16:27:40,574 autoreload 22696 7148 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\views.py changed, reloading.
+INFO 2024-05-28 16:27:40,967 autoreload 18308 24820 Watching for file changes with StatReloader
+INFO 2024-05-28 16:27:53,611 autoreload 18308 24820 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\views.py changed, reloading.
+INFO 2024-05-28 16:27:54,008 autoreload 11748 20700 Watching for file changes with StatReloader
+INFO 2024-05-28 16:28:04,600 autoreload 11748 20700 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\views.py changed, reloading.
+INFO 2024-05-28 16:28:04,991 autoreload 17108 25116 Watching for file changes with StatReloader
+INFO 2024-05-28 16:28:33,232 autoreload 17108 25116 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\urls.py changed, reloading.
+INFO 2024-05-28 16:28:33,670 autoreload 14292 2152 Watching for file changes with StatReloader
+INFO 2024-05-28 16:28:37,080 autoreload 14292 2152 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\urls.py changed, reloading.
+INFO 2024-05-28 16:28:37,512 autoreload 9348 24708 Watching for file changes with StatReloader
+INFO 2024-05-28 16:28:47,193 autoreload 9348 24708 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\urls.py changed, reloading.
+INFO 2024-05-28 16:28:47,669 autoreload 6020 25208 Watching for file changes with StatReloader
+INFO 2024-05-28 16:30:04,553 basehttp 6020 11408 "GET /les4/upload/ HTTP/1.1" 200 603
+ERROR 2024-05-28 16:30:38,084 log 6020 11408 Internal Server Error: /les4/upload/
+Traceback (most recent call last):
+  File "C:\Users\grech\Documents\GeekBrains\Django_lessons\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\grech\Documents\GeekBrains\Django_lessons\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\views.py", line 62, in upload_image
+    fs = FileSystemStorage()
+         ^^^^^^^^^^^^^^^^^
+NameError: name 'FileSystemStorage' is not defined
+ERROR 2024-05-28 16:30:38,090 basehttp 6020 11408 "POST /les4/upload/ HTTP/1.1" 500 69276
+INFO 2024-05-28 16:32:03,838 autoreload 6020 25208 C:\Users\grech\Documents\GeekBrains\Django_lessons\Django_1\myproject\myapp4\views.py changed, reloading.
+INFO 2024-05-28 16:32:04,250 autoreload 24380 23468 Watching for file changes with StatReloader
+INFO 2024-05-28 16:32:18,282 basehttp 24380 25336 "POST /les4/upload/ HTTP/1.1" 200 603
